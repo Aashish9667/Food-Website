@@ -5,7 +5,7 @@ export default function Footer() {
       <div className="max-w-6xl mx-auto px-4 grid grid-cols-1 md:grid-cols-4 gap-8">
         <div className="flex flex-col gap-3">
           <h2 className="text-xl font-bold text-white" data-aos="fade-up">
-            Gourmet<span className="text-[#fac031]">Bite</span>
+           VeerJi<span className="text-[#fac031]">Resturent</span>
           </h2>
           <p className="text-sm text-gray-400" data-aos="fade-up">
             Serving fresh, delicious meals made from locally sourced ingredients
@@ -34,18 +34,11 @@ export default function Footer() {
             About Us
           </a>
           <a
-            href="#book"
+            href="#order"
             className="hover:text-[#fac031] transition-colors text-sm"
             data-aos="fade-up"
           >
             Book A Table
-          </a>
-          <a
-            href="#contact"
-            className="hover:text-[#fac031] transition-colors text-sm"
-            data-aos="fade-up"
-          >
-            Contact
           </a>
         </div>
         <div className="flex flex-col gap-1 text-sm">
@@ -81,7 +74,7 @@ export default function Footer() {
       </div>
       <div className="border-t mt-12 pt-6 text-center text-xs text-gray-500">
         <p>
-          &copy; {new Date().getFullYear()} GourmetBite Restaurant. All rights
+          &copy; {new Date().getFullYear()} Veer Ji Restaurant. All rights
           reserved.
         </p>
       </div>

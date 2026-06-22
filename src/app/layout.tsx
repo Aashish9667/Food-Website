@@ -14,10 +14,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Create Food Website",
-  icons: {
-    icon: "./foodlogo.png",
-  },
+  title: "Food Website",
+  icons:"./foodlogo.png"
 };
 
 export default function RootLayout({

@@ -28,7 +28,7 @@ export const sliderData: SlideItem[] = [
     titleAfter: "Delivered Fast",
     description: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quia eaque sequi deserunt aperiam, totam ipsum, ad, est laboriosam modi aliquid.",
     buttonText: "Order Now",
-    imageSrc: "./HeroSection/Food-Plate.png",
+    imageSrc: "./HeroSection/Food-Plate.jpg",
     imageAlt: "Food"
   },
   {

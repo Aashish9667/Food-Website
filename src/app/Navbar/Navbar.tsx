@@ -23,7 +23,7 @@ export default function NavbarMobile() {
           href="#home"
           className="no-underline text-yellow-400 font-bold text-xl"
         >
-        <img src="./logo.png" alt="" className="w-20"/>
+        <img src="./foodlogo.jpg" alt="" className="w-20"/>
         </a>
         <div className="hidden md:block">
           <ul className="flex items-center gap-6 list-none m-0 p-0">
