@@ -47,7 +47,7 @@ export default function NavbarMobile() {
         <div className="flex items-center gap-2 md:gap-4">
           <a
             href="#menu"
-            className="relative bg-yellow-400 text-white font-medium px-4 py-1.5 rounded-2xl no-underline overflow-hidden group hidden md:flex items-center gap-1.5 transition-all duration-300 hover:bg-yellow-500"
+            className="relative bg-yellow-400 font-medium px-4 py-1.5 rounded-2xl no-underline overflow-hidden group hidden md:flex items-center gap-1.5 transition-all duration-300 hover:bg-yellow-500"
           >
             <div className="absolute inset-0 w-full h-full bg-gradient-to-r from-transparent via-white/30 to-transparent -translate-x-full group-hover:translate-x-full transition-transform duration-700 ease-out pointer-events-none" />
             <span className="relative z-10 text-[14px] flex items-center gap-1.5 whitespace-nowrap text-black">
@@ -60,7 +60,7 @@ export default function NavbarMobile() {
           </a>
           <button
             onClick={() => setIsOpen(!isOpen)}
-            className="p-2 text-gray-700 hover:bg-gray-100 rounded-lg md:hidden transition-colors"
+            className="p-2 hover:bg-gray-100 rounded-lg md:hidden transition-colors"
             aria-label="Toggle Menu"
           >
             {isOpen ? <X className="w-6 h-6" /> : <Menu className="w-6 h-6" />}
@@ -92,7 +92,8 @@ export default function NavbarMobile() {
           <a
             href="#contact"
             onClick={() => setIsOpen(false)}
-            className="relative bg-yellow-400 text-white font-medium px-4 py-1.5 rounded-2xl no-underline overflow-hidden group flex items-center gap-1.5 transition-all duration-300 hover:bg-yellow-500 w-fit"
+            className="relative bg-yellow-400
+             font-medium px-4 py-1.5 rounded-2xl no-underline overflow-hidden group flex items-center gap-1.5 transition-all duration-300 hover:bg-yellow-500 w-fit"
           >
             <div className="absolute inset-0 w-full h-full bg-gradient-to-r from-transparent via-white/30 to-transparent -translate-x-full group-hover:translate-x-full transition-transform duration-700 ease-out pointer-events-none" />
             <span className="relative z-10 text-[14px] flex items-center gap-1.5 whitespace-nowrap">

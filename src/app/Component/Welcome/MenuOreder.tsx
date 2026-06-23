@@ -108,6 +108,7 @@ export default function MenuOrder() {
             </div>
             <div className="w-[170px] h-[200px] flex-shrink-0 relative overflow-hidden group">
               <img
+              loading="lazy"
                 src={item.imgSrc}
                 alt={item.title}
                 className="w-full h-full object-cover rounded-l-full rounded-r-[24px] shadow-md transition-transform duration-300 "
