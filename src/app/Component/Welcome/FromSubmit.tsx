@@ -88,7 +88,7 @@ export default function FromSubmit() {
       </div>
       <div className="flex lg:flex-row flex-col lg:justify-between items-center gap-10 w-full">
         <div className="lg:w-[50%] w-full " data-aos="fade-right">
-          <img src="order_image.png" alt="" />
+          <img src="orderImage.webp" alt="" />
         </div>
         <form
         onSubmit={onSubmit}

@@ -13,37 +13,37 @@ export default function App() {
   return (
     <main className="w-full">
       <NavbarMobile />
-      <section className="w-full bg-cover bg-center bg-no-repeat" id="home" style={{ backgroundImage: "url('./bg1.jpg')" }}>
+      <section className="w-full bg-cover bg-center bg-no-repeat" id="home" style={{ backgroundImage: "url('./bg1 (1).webp')" }}>
         <div className="max-w-7xl mx-auto">
           <HeroSlider />
         </div>
       </section>
-      <section className="w-full bg-cover bg-center bg-no-repeat scale-x-[-1]" id="about" style={{ backgroundImage: "url('./bg1.jpg')" }}>
+      <section className="w-full bg-cover bg-center bg-no-repeat scale-x-[-1]" id="about" style={{ backgroundImage: "url('./bg1 (1).webp')" }}>
         <div className="max-w-7xl mx-auto scale-x-[-1]">
           <About />
         </div>
       </section>
-      <section className="w-full bg-cover bg-center bg-no-repeat" id="menu" style={{ backgroundImage: "url('./bg1.jpg')" }}>
+      <section className="w-full bg-cover bg-center bg-no-repeat" id="menu" style={{ backgroundImage: "url('./bg1 (1).webp')" }}>
         <div className="max-w-7xl mx-auto ">
           <MenuOrder />
         </div>
       </section>
-      <section className="w-full bg-cover bg-center bg-no-repeat scale-x-[-1]" id="gallary" style={{ backgroundImage: "url('./bg1.jpg')" }}>
+      <section className="w-full bg-cover bg-center bg-no-repeat scale-x-[-1]" id="gallary" style={{ backgroundImage: "url('./bg1 (1).webp')" }}>
         <div className="max-w-7xl mx-auto  scale-x-[-1]">
           <Gallary />
         </div>
       </section>
-      <section className="w-full bg-cover bg-center bg-no-repeat" id="review" style={{ backgroundImage: "url('./bg1.jpg')" }}>
+      <section className="w-full bg-cover bg-center bg-no-repeat" id="review" style={{ backgroundImage: "url('./bg1 (1).webp')" }}>
         <div className="max-w-7xl mx-auto">
           <ReviewCards />
         </div>
       </section>
-      <section className="w-full bg-cover bg-center bg-no-repeat scale-x-[-1]" id="chef" style={{ backgroundImage: "url('./bg1.jpg')" }}>
+      <section className="w-full bg-cover bg-center bg-no-repeat scale-x-[-1]" id="chef" style={{ backgroundImage: "url('./bg1 (1).webp')" }}>
         <div className="max-w-7xl mx-auto scale-x-[-1]">
           <ChefTeam />
         </div>
       </section>
-      <section className="w-full bg-cover bg-center bg-no-repeat" id="order" style={{ backgroundImage: "url('./bg1.jpg')" }}>
+      <section className="w-full bg-cover bg-center bg-no-repeat" id="order" style={{ backgroundImage: "url('./bg1 (1).webp')" }}>
         <div className="max-w-7xl mx-auto">
           < FromSubmit/>
         </div>

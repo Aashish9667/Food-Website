@@ -5,7 +5,7 @@ export default function ReviewCards() {
       id: 1,
       name: "Sarah Jenkins",
       role: "Food Blogger",
-      image: "./Review/review_1.png",
+      image: "./Review/review1.webp",
       rating: 5,
       review: "The Truffle Mushroom Risotto was an absolute masterpiece! Rich, creamy, and bursting with authentic flavours. GourmetBite has officially become my weekly fine-dining spot."
     },
@@ -13,7 +13,7 @@ export default function ReviewCards() {
       id: 2,
       name: "David Chen",
       role: "Local Guide",
-      image: "./Review/review_2.png",
+      image: "./Review/review2.webp",
       rating: 5,
       review: "Exceptional service from the moment we walked in. The staff was incredibly attentive, and the farm-to-table freshness shines through in every single dish."
     },
@@ -21,7 +21,7 @@ export default function ReviewCards() {
       id: 3,
       name: "Elena Rostova",
       role: "Regular Customer",
-      image: "./Review/review_3.png",
+      image: "./Review/review3.webp",
       rating: 5,
       review: "Their Friday Happy Hours are the best in town! Amazing craft drinks paired with top-tier appetizers. The rustic yet modern atmosphere makes it perfect for winding down."
     },
@@ -29,7 +29,7 @@ export default function ReviewCards() {
       id: 4,
       name: "Marcus Thompson",
       role: "Executive Chef",
-      image: "./Review/review_4.png",
+      image: "./Review/review4.webp",
       rating: 5,
       review: "As a fellow chef, I highly respect their commitment to locally sourced ingredients. The culinary execution is flawless, and the presentation is clean and elegant."
     }

@@ -1,37 +1,37 @@
 import { MoveRight } from "lucide-react";
 const gallaryData = [
   {
-    img: "./Gallary/gallary_1.jpg",
+    img: "./Gallary/gallary1.webp",
     heading: "Food",
     paragraph: "Lorem hello im dilisuse food also testy amazing",
     button: "Order Now",
   },
   {
-    img: "./Gallary/gallary_2.jpg",
+    img: "./Gallary/gallary2.webp",
     heading: "Food",
     paragraph: "Lorem hello im dilisuse food also testy amazing",
     button: "Order Now",
   },
   {
-    img: "./Gallary/gallary_3.jpg",
+    img: "./Gallary/gallary3.webp",
     heading: "Food",
     paragraph: "Lorem hello im dilisuse food also testy amazing",
     button: "Order Now",
   },
   {
-    img: "./Gallary/gallary_4.jpg",
+    img: "./Gallary/gallary4.webp",
     heading: "Food",
     paragraph: "Lorem hello im dilisuse food also testy amazing",
     button: "Order Now",
   },
   {
-    img: "./Gallary/gallary_5.jpg",
+    img: "./Gallary/gallary5.webp",
     heading: "Food",
     paragraph: "Lorem hello im dilisuse food also testy amazing",
     button: "Order Now",
   },
   {
-    img: "./Gallary/gallary_6.jpg",
+    img: "./Gallary/gallary6.webp",
     heading: "Food",
     paragraph: "Lorem hello im dilisuse food also testy amazing",
     button: "Order Now",

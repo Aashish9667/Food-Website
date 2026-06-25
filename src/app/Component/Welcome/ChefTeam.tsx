@@ -4,7 +4,7 @@ import { FaFacebook, FaInstagram, FaTwitter } from "react-icons/fa";
 
 const chefData = [
   {
-    img: "./Chef/chef1.png",
+    img: "./Chef/chef1.webp",
     headingTwo: "Chef Elias Thorne",
     paragraph:
       "Culinary Director & Innovator. Specialist in modern fusion cuisine with over 20 years experience.",
@@ -13,7 +13,7 @@ const chefData = [
     instagram: "https://instagram.com",
   },
   {
-    img: "./Chef/chef2.png",
+    img: "./Chef/chef2.webp",
     headingTwo: "Chef Elysa Thorne",
     paragraph:
       "Culinary Director & Innovator. Specialist in modern fusion cuisine with over 20 years experience.",
@@ -22,7 +22,7 @@ const chefData = [
     instagram: "https://instagram.com",
   },
   {
-    img: "./Chef/chef3.jpg",
+    img: "./Chef/chef3.webp",
     headingTwo: "Chef Tom Thorne",
     paragraph:
       "Culinary Director & Innovator. Specialist in modern fusion cuisine with over 20 years experience.",
@@ -31,7 +31,7 @@ const chefData = [
     instagram: "https://instagram.com",
   },
   {
-    img: "./Chef/chef4.jpg",
+    img: "./Chef/chef4.webp",
     headingTwo: "Chef Tiger Thorne",
     paragraph:
       "Culinary Director & Innovator. Specialist in modern fusion cuisine with over 20 years experience.",
